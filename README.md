@@ -14,3 +14,8 @@ Dependências:
     $ yarn add @react-navigation/stack
     
     $ yarn add react-native-twitter
+
+
+![alt text](https://i.imgur.com/EhFrRWg.png)
+
+![alt text](https://i.imgur.com/zPSZ3Oy.png)
