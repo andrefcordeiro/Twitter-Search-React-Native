@@ -16,6 +16,6 @@ Dependências:
     $ yarn add react-native-twitter
 
 
-![alt text](https://i.imgur.com/EhFrRWg.png {width=40px height=400px})
+![alt text](https://i.imgur.com/EhFrRWg.png){:height="50%" width="50%"}
 
-![alt text](https://i.imgur.com/zPSZ3Oy.png {width=40px height=400px})
+![alt text](https://i.imgur.com/zPSZ3Oy.png){:height="50%" width="50%"}
