@@ -17,7 +17,7 @@ Dependências:
 
 
 
-<div style={{display: flex, flex-direction: row, justify-content: center, margin-right: 100}}>
+<div style={{display: flex, flex-direction: row, aling-items: center, margin-right: 100}}>
      
 <img src="https://i.imgur.com/lnMCBGh.png" width="250px" >
 
