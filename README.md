@@ -17,9 +17,9 @@ Dependências:
 
 
 
-<div style={{display: flex, flex-direction: row}}>
+<div style={{display: flex, flex-direction: row, justify-content: center, margin-right: 100}}>
      
-<img src="https://i.imgur.com/EhFrRWg.png" width="250px" >
+<img src="https://imgur.com/lnMCBGh" width="250px" >
 
 <img src="https://i.imgur.com/zPSZ3Oy.png" width="250px" >
 
