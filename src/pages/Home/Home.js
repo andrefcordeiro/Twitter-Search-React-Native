@@ -14,6 +14,7 @@ export default class Home extends Component {
             this.props.navigation.navigate('SearchResult', {
                 q: this.state.search
             })
+            this.setState({ search: "" })
         }
         else {
             alert("Insira uma palavra")

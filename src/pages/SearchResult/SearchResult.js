@@ -15,15 +15,7 @@ const { rest } = twitter({
 export default class SearchResult extends Component {
 
     state = {
-        tweets:
-            [
-                // {
-                // text: "aaaaaa",
-                // screen_name: "trakinaj",
-                // profile_image: "https://pbs.twimg.com/profile_images/1225125873407397888/y0LAwki9_400x400.png",
-                // link: "https://stackoverflow.com/questions/30540252/how-does-one-display-a-hyperlink-in-react-native-app"
-                // }
-            ],
+        tweets: [],
     }
 
     loadTweets = async () => {
