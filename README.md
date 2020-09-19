@@ -15,7 +15,7 @@ Dependências:
     
     $ yarn add react-native-twitter
 
-<img src="https://i.imgur.com/EhFrRWg.png" width="50px" height="200px" >
+<img src="https://i.imgur.com/EhFrRWg.png" width="100px">
 
-<img src="https://i.imgur.com/zPSZ3Oy.png" width="50px" height="200px" >
+<img src="https://i.imgur.com/zPSZ3Oy.png" width="100px" >
 
