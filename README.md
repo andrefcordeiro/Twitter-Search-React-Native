@@ -15,7 +15,13 @@ Dependências:
     
     $ yarn add react-native-twitter
 
+
+
+<div style={{display: flex, flex-direction: row}}>
+     
 <img src="https://i.imgur.com/EhFrRWg.png" width="250px" >
 
 <img src="https://i.imgur.com/zPSZ3Oy.png" width="250px" >
+
+</div> 
 
