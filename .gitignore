@@ -1,6 +1,6 @@
 
 #variaveis de ambiente
-./src/Config.js
+Config.js
 .env
 # OSX
 #

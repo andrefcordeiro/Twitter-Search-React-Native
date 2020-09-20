@@ -3,7 +3,7 @@ import { Text, View, ScrollView, Image, Linking } from 'react-native'
 import Styles from './Styles'
 import { RotationGestureHandler, TouchableOpacity } from 'react-native-gesture-handler'
 import twitter, { auth } from 'react-native-twitter';
-import Config from "../../Config"
+import Config from "../../../Config"
 
 const { rest } = twitter({
     consumerKey: Config.CONSUMER_KEY,
