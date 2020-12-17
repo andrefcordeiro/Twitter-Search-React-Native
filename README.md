@@ -6,7 +6,7 @@ A sample project of how to use twitter api with react native to search for tweet
 ### Cloning the project
     
 ``` 
-git clone https://github.com/andrefcordeiro/React-Native-Stopwatch-Timer.git
+git clone https://github.com/andrefcordeiro/Twitter-Search-React-Native.git
 ```
 
 ### Installing dependencies
