@@ -1,27 +1,37 @@
-Um projeto exemplo de como consumir a api do twitter no react native
+# React Native Search Tweets
 
-Na pasta do projeto:
+A sample project of how to use twitter api with react native to search for tweets with a specific query
 
-     $ react-native init TwitterSearch
-     
-
-Dependências: 
-  
-    $ yarn add @react-navigation/native 
-
-    $ yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view  
-
-    $ yarn add @react-navigation/stack
+## Setup instructions
+### Cloning the project
     
-    $ yarn add react-native-twitter
+``` 
+git clone https://github.com/andrefcordeiro/React-Native-Stopwatch-Timer.git
+```
 
+### Installing dependencies
+```
+npm install
 
+yarn add @react-navigation/native 
 
-<div style={{display: flex, flex-direction: row}}>
-     
-<img src="https://i.imgur.com/lnMCBGh.png" width="250px" >
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view  
 
-<img src="https://i.imgur.com/zPSZ3Oy.png" width="250px" >
+yarn add @react-navigation/stack
 
-</div> 
+yarn add react-native-twitter
+```
+
+### Starting the app
+```
+react-native run-android
+```
+
+## Screenshots
+
+<p align="center">
+  <img src="https://i.imgur.com/lnMCBGhl.png">
+  <img src="https://i.imgur.com/zPSZ3Oyl.png">
+</p>
+
 
